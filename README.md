@@ -9,6 +9,6 @@ Homepage: https://godotengine.org
 
 ### Spreets
 
-[![space-shooter-redux](http://opengameart.org/sites/default/files/styles/medium/public/sample_17.png)](http://opengameart.org/content/space-shooter-redux)
+[![space-shooter-redux](http://opengameart.org/sites/default/files/sample_17.png)](http://opengameart.org/content/space-shooter-redux)
 
 [![space-shooter-redux](http://opengameart.org/sites/default/files/preview_158.png)](http://opengameart.org/content/space-shooter-redux)
